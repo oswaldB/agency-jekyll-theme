@@ -11,7 +11,7 @@ description: "Metidia Advertising Solutions (MAS) is the agency in charge to put
 people:
 - name: Oswald BERNARD
   pic: https://trello-attachments.s3.amazonaws.com/571fd4957671470585c75b62/200x219/ce82efaaaf06d0b4c9492229ea0665eb/1.png
-  position: Lead Business Developper
+  position: Lead Business Developer
   social:
     - title: envelope-o
       url: mailto:oswald.bernard@metidia.com
@@ -25,14 +25,14 @@ people:
 
 - name: Fabien BERNARD
   pic: https://trello-attachments.s3.amazonaws.com/571fd4957671470585c75b62/200x219/a01ba42f8a1d9d4091e6ca867445dec8/3.png
-  position: Lead Developer Back
+  position: Lead Developer Back-end
   social:
     - title: envelope-o
       url: mailto:fabien.bernard@metidia.com
 
 - name: Nicolas CARLO
   pic: https://trello-attachments.s3.amazonaws.com/571fd4957671470585c75b62/200x219/699bf61f7e3004adcf36b3d044889fc8/4.png
-  position: Lead Developer Front
+  position: Lead Developer Front-end
   social:
     - title: envelope-o
       url: mailto:nicolas.carlo@metidia.com
