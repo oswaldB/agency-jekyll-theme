@@ -10,35 +10,35 @@ description: "Metidia Advertising Solutions (MAS) is the agency in charge to put
 # Team names, titles and social links
 people:
 - name: Oswald BERNARD
-  pic: 1
+  pic: https://trello-attachments.s3.amazonaws.com/571fd4957671470585c75b62/200x219/ce82efaaaf06d0b4c9492229ea0665eb/1.png
   position: Lead Business Developper
   social:
     - title: envelope-o
       url: mailto:oswald.bernard@metidia.com
 
 - name: Fanny GARRET
-  pic: 2
+  pic: https://trello-attachments.s3.amazonaws.com/571fd4957671470585c75b62/200x219/591a183338b8a4948da5882886eea741/2.png
   position: Lead Marketer
   social:
     - title: envelope-o
       url: mailto:Fanny.garret@metidia.com
 
 - name: Fabien BERNARD
-  pic: 3
+  pic: https://trello-attachments.s3.amazonaws.com/571fd4957671470585c75b62/200x219/a01ba42f8a1d9d4091e6ca867445dec8/3.png
   position: Lead Developer Back
   social:
     - title: envelope-o
       url: mailto:fabien.bernard@metidia.com
 
 - name: Nicolas CARLO
-  pic: 4
+  pic: https://trello-attachments.s3.amazonaws.com/571fd4957671470585c75b62/200x219/699bf61f7e3004adcf36b3d044889fc8/4.png
   position: Lead Developer Front
   social:
     - title: envelope-o
       url: mailto:nicolas.carlo@metidia.com
 
 - name: Maureen FRADON
-  pic: 5
+  pic: https://trello-attachments.s3.amazonaws.com/571fd4957671470585c75b62/200x219/18e2564cd58f360fa76a8ecfcf5b9bed/5.png
   position: Lead Arts
   social:
     - title: envelope-o
