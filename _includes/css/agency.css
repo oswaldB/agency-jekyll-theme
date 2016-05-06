@@ -888,3 +888,16 @@ body {
     margin-top: 60px;
 
 }
+
+.sidepart{
+  background-color: #1ebe1e;
+position: relative;
+/* left: -130px; */
+top: -1px;
+/* min-height: 546px; */
+padding-bottom: 220px;
+padding-left: 40px;
+padding-top: 220px;
+color: white;
+font-size: 18px;
+}
